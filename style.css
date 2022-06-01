@@ -1,0 +1,171 @@
+html{
+	/*color: green;
+	background-image: url("de.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-color: red;*/
+}
+/*h1{
+	background: linear-gradiant(red,blue,red,green,black);
+}
+p{
+	background: linear-gradiant(green,red);
+}*/
+
+
+/*html{
+	margin-top: -21px;
+	margin-left: -8px;
+}
+
+
+h1{
+	border: 1px solid;
+	width: 300px;
+
+}
+p{
+	border: 1px solid;
+	width: 250px;
+	padding: 25px;
+	margin: 25px;
+}*/
+
+/*h1{
+	border: 1px solid;
+	width: 200px;
+	padding: 25px;
+	background-color: black;
+	color: lawngreen;
+	border-color: black;
+
+	text-shadow: 0px 0px 5px yellow, 0px -5px 5px red;
+
+	/*
+		horizontal (px)
+		vertical (px)
+		blur (px)
+		color (RGB)
+	*/
+
+	/*box-shadow: 10px 10px 3px #777777;*/
+
+	/*
+		horizontal (px)
+		vertical (px)
+		blur (px)
+		color (RGB)
+	*/
+}
+/*a:link{
+	color: darkred;
+}
+a:visited{
+	color: darkred;
+}
+
+button:hover{
+	background-color: Green;
+	color: skyblue;
+}
+button:active{
+	background-color: red;
+}*/
+
+/*li:first-child{
+	background-color:#93ff7d;
+}
+li:last-child{
+	background-color:springgreen;
+}
+
+li:nth-child(even){
+ 	background-color:#93ff7d;
+}
+li:nth-child(odd){
+ 	background-color:red; 
+}*/
+/*li:nth-child(2n+0){*/
+
+
+	/*
+	nth-child(an+b)
+	a=cycle size
+	n=councter (starts at 0)
+	b= offset value
+	*/
+		/*background-image: linear-gradient(to right,red,orange);*/
+}
+/*
+p{
+	border: 1px solid;
+	width: 250px;
+}
+
+#p1{
+	text-align: left;
+}
+#p2{
+	text-align: center;
+}
+#p3{
+	text-align: right;
+}*/
+
+/*
+img{
+	float: center;
+	margin:5px;
+}
+div{
+	border: 1px solid;
+	width: 300px;
+
+}*/
+
+/*h1{
+	border: 1px solid;
+	background: yellow;
+	width: 200px;
+
+	position: fixed;
+	/*fixed in palce within viewport
+	position: relative;
+	/*relative to its normal position
+	position: sticky;
+	/*sticks to viewport when scrolling
+	position: static;
+	/*default
+
+	bottom: 0px;
+	right: 0px;
+}*/
+
+#box1{
+	position: relative;
+	background-color: green;
+	width: 200px;
+	height: 200px;
+	border: 1px solid;
+
+	top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#box2{
+	position: absoulute;
+	/*position relative to its positioned ancestor*/
+	/*relative to the viewport*/
+	background-color: gray;
+	width: 100px;
+	height: 100px;
+	border: 1px solid;
+
+	top: 50px;
+	left: 50px;
+}
+
+
+
+
